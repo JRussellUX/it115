@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders quote screen 1`] = `
+<h3>
+  <span>
+    “
+  </span>
+  Test Quote
+   (
+  Test Character
+  )
+  <span>
+    "
+  </span>
+</h3>
+`;

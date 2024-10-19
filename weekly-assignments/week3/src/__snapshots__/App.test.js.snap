@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders quote screen 1`] = `
+<main>
+  <h1>
+    Week3 Assignment: Simpsons Quote Generator
+  </h1>
+  <section>
+    <button
+      onClick={[Function]}
+    >
+      New Quote
+    </button>
+  </section>
+</main>
+`;
